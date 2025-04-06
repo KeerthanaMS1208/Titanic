@@ -1,14 +1,14 @@
 # 🚢 Titanic - Machine Learning from Disaster
 
-This project solves the classic Titanic Kaggle competition by building a machine learning model to predict which passengers survived the Titanic shipwreck.
+This project solves the classic Titanic Kaggle competition by building a machine learning model to predict which passengers survived the Titanic shipwreck with the help of available data.
 
 ---
 
 ## Overview
 
-- Cleaned and explored the dataset
+- Explored the test and train datasets
+- Cleaned the datasets 
 - Handled missing values (`Age`, `Fare`, `Embarked`)
-- Encoded categorical variables (`Sex`, `Embarked`)
 - Trained a Random Forest classifier
 - Achieved a public score of **0.74641** on Kaggle
 
